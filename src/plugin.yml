@@ -1,0 +1,15 @@
+name: MapMaker
+version: 1.0
+description: Domes and lobbies
+author: nieto90
+website: https://github.com/nieto90
+
+main: mapmaker.MapMaker
+database: false
+
+commands:
+  mapmaker:
+      description: Type /mm help for help with this plugin.
+      usage:  You typed the command incorrectly.
+              For help type /mm help.
+      aliases: [mm]
